@@ -14,4 +14,7 @@ I'm currently studying **Fintech** at UEL, driven by a strong passion for learni
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giabao3107&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)  
 
 ---
-
+<a href="https://github.com/giabao3107/Stock-Market-Analysis-Project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=giabao3107&repo=Stock-Market-Analysis-Project&theme=radical" />
+</a>    
